@@ -27,4 +27,4 @@ This project demonstrates component-based architecture, state management, condit
 
 🚀 **Live Demo**
 
-**Live URL:**
+**Live URL:** https://sct-wd-3.netlify.app/
